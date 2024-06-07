@@ -62,7 +62,3 @@ Este é um aplicativo simples de lista de tarefas com a funcionalidade adicional
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR se desejar adicionar novos recursos, corrigir bugs ou melhorar a documentação.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
