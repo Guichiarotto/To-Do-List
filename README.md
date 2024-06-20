@@ -13,7 +13,6 @@ Este é um aplicativo simples de lista de tarefas com a funcionalidade adicional
   
 ## Pré-requisitos
 
-- Python 3.x
 - Biblioteca `Pillow`
 - Biblioteca `tkinter`
 
